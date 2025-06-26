@@ -19,7 +19,7 @@ This is a beginner-level embedded systems project that creates a smooth breathin
 - Timing with delay()
 
 ##  Preview
-(Add a screenshot or video link here)
+![Breathe LED Tinkercad Template](https://github.com/user-attachments/assets/c5739a30-0fcb-4a9f-b429-b54da96c34fb)
 
 ##  Code
 ```cpp
